@@ -1,4 +1,4 @@
-#Bird Detection, Species Classification, and GIS Mapping with Co-DETR
+# Bird Detection, Species Classification, and GIS Mapping with Co-DETR
 
 
 The project uses **Co-DETR instance segmentation** to identify individual birds and generate high-resolution masks. These masks can then be processed using size, shape, color, spatial context, and additional classification models to estimate species and export survey results for GIS analysis.
